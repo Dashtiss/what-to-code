@@ -1,3 +1,4 @@
 .*_env
 frontend/node_modules
 frontend/.next
+.DS_Store
